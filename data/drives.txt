@@ -1,0 +1,5 @@
+DRIVE001,COMP001,TechCorp Solutions Pvt Ltd,Software Engineer,12.5,7.0,2,2026-05-10,Bangalore,Full-Time,ACTIVE,CSE;IT,java;python;sql
+DRIVE002,COMP001,TechCorp Solutions Pvt Ltd,Data Analyst Intern,6.0,6.5,0,2026-05-20,Bangalore,Internship,ACTIVE,ALL,python;sql;excel
+DRIVE003,COMP002,Tata Motors Limited,Graduate Engineer Trainee,8.0,6.0,6,2026-06-01,Pune,Full-Time,ACTIVE,ME;EEE;ECE,cad;matlab
+DRIVE004,COMP003,Infosys Technologies,System Engineer,9.5,7.5,0,2026-05-28,Mysuru,Full-Time,ACTIVE,CSE;IT,java;sql
+DRIVE005,COMP003,Infosys Technologies,Digital Specialist,11.0,8.0,0,2026-06-15,Hyderabad,Full-Time,ACTIVE,CSE;IT;ECE,java;angular;typescript

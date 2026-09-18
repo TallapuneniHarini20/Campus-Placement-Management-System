@@ -1,0 +1,5 @@
+STU001,Alice Sharma,alice@student.edu,student123,STUDENT,CSE,8.5,0,java;python;sql
+STU002,Bob Verma,bob@student.edu,student123,STUDENT,ME,7.8,1,cad;matlab
+STU003,Rahul Patel,rahul@student.edu,student123,STUDENT,IT,9.0,0,java;dsa;spring
+STU004,Neha Shah,neha@student.edu,student123,STUDENT,CSE,8.2,0,react;nodejs;js
+STU005,Karan Mehta,karan@student.edu,student123,STUDENT,ECE,6.9,2,embedded;c

@@ -1,0 +1,3 @@
+COMP001,TechCorp Solutions Pvt Ltd HR,techcorp@campus.edu,company123,COMPANY,TechCorp Solutions Pvt Ltd,Information Technology,Ms. Priya Sharma
+COMP002,Tata Motors Recruiter,tata@campus.edu,company123,COMPANY,Tata Motors Limited,Automotive,Mr. Rajesh Kumar
+COMP003,Infosys HR Partner,infosys@campus.edu,company123,COMPANY,Infosys Technologies,IT Services,Ms. Ananya Reddy
