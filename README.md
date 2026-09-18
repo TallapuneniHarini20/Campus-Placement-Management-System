@@ -1,3 +1,4 @@
+
 # Smart Campus Placement Management System
 ### A Menu-Driven CLI Application in Java
 
@@ -219,3 +220,6 @@ Score = (CGPA / 10.0 × 50)       → Up to 50 points
 ---
 
 *Built as a beginner-friendly Java project demonstrating OOP principles.*
+
+# Campus-Placement-Management-System
+
